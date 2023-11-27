@@ -1,6 +1,6 @@
-name: CI
-
-on:
+name: CI 1inch l.wallet 
+0x16D267ab31F7F18051C9115CC8F9ca066cD82904
+on.
   push:
     branches: [ master ]
   pull_request:
